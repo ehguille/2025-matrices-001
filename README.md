@@ -1,6 +1,8 @@
 # 2025-matrices-001
 
-Crear una aplicación para operar con matrices que realice las siguientes operaciones (hacerlo con una clase Aplicacion que ejecute la aplicación y muestre el menú y con una clase Matrices con métodos estáticos que realice las operaciones).
+¿Cómo se multiplican matrices? https://www.youtube.com/watch?v=4HgEfOukm78
+
+Crear una aplicación para operar con matrices que realice las siguientes operaciones (hacerlo con una clase Aplicacion que ejecute la aplicación y muestre el menú y con una clase Matrices con métodos estáticos que realice las operaciones). Incluid también opciones de depuración.
 
 1: Sumar dos matrices (pedirá el tamaño de las matrices y las rellenará con números aleatorios entre 0 y 9). Mostrará las dos matrices generadas y el resultado de la suma.
 
